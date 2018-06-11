@@ -1,1 +1,16 @@
-# Place your app description in this file
+app speaker     = Say things
+  description   = App to say useful things 
+  author        = philiprbrenan
+  email         = philiprbrenan@gmail.com
+  icon          = icon.jpg
+  speaker        = Brian
+
+photo yes       = Yes 
+
+photo no        = No 
+
+photo help      = Help, I cannot speak
+
+photo hungry    = I need something to eat
+
+photo thirsty   = I need some water
