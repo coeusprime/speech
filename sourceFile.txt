@@ -3,7 +3,7 @@ app speaker     = Say things
   author        = philiprbrenan
   email         = philiprbrenan@gmail.com
   icon          = icon.jpg
-  speaker        = Brian
+  speaker       = Brian
 
 photo yes       = Yes 
 
