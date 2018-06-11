@@ -3,7 +3,7 @@ app speech      = Say things
   author        = coeusprime
   email         = coeusprime@gmail.com
   icon          = icon.jpg
-  speaker       = Brian
+  speaker      = Brian
 
 photo yes       = Yes 
 
