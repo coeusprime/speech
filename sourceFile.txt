@@ -1,7 +1,7 @@
 app speech      = Say things
   description   = App to say useful things 
-  author        = philiprbrenan
-  email         = philiprbrenan@gmail.com
+  author        = coeusprime
+  email         = coeusprime@gmail.com
   icon          = icon.jpg
   speaker       = Brian
 
