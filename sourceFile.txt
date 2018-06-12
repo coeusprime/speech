@@ -6,6 +6,7 @@ app speech      = Say things
   speaker      = Brian
 
 photo yes       = Yes 
+  url           = EEL.jpg 
 
 photo no        = No 
 
